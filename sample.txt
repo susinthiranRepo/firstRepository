@@ -1,2 +1,1 @@
-this is going to get merged to branch 3
-where conflict occurs
+and it is been solvedwhere conflict occurs
